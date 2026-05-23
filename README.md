@@ -69,7 +69,7 @@ Dynamic Modification Rule (DMR) Implementation
 
 5. Configuration Overview (SPRO)
 
-            Please do refer Master Data Configuration.pdf.
+            Please do refer Dynamic Modification Rule (DMR) Implementation Configuration Steps.pdf.
 
 
 6. Roles & Responsibilities
