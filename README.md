@@ -8,7 +8,7 @@ Dynamic Modification Rule (DMR) Implementation
           DMR helps:
           
                   Reduce inspection effort for consistent quality
-                  Increase inspection rigor for poor quality
+                  Increase inspection control for rejected or poor-quality materials
                   Automate inspection stage transitions (e.g., Normal → Reduced → Tightened)
             
 
@@ -105,5 +105,7 @@ Dynamic Modification Rule (DMR) Implementation
 
 🙌 Author
 
-Satyanarayana Siddineni SAP Functional Consultant
+Satyanarayana Siddineni 
+SAP QM Functional Consultant
+
    
