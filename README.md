@@ -84,25 +84,22 @@ Dynamic Modification Rule (DMR) Implementation
 
 7. Step-by-Step Transaction Execution
 
-            Please do refer Dynamic Modification Rule (DMR) Implementation Step by Step Transaction Execution.pdf   
+            Please do refer Dynamic Modification Rule (DMR) Step by Step Process Execution.pdf   
 
 8.  Project Structure
 
-             End-to-End QM Integration with MM & PP in SAP/
+             Dynamic Modification Rule (DMR) Implementation/
              │   
              ├── README.md
              ├── Documents/
-             │     ├── Master Data Configuration.pdf
-             │     ├── QM Integration with MM of 01 Insp.type step by step transaction execution.pdf
-             │     ├── QM Integration with PP of 03 Insp.type step by step transaction execution.pdf        
-             │     └── Finished Goods Inspection ( PP + MM ) of 04 Insp.type step by step transaction execution.pdf
+             │     ├── Dynamic Modification Rule (DMR) Step by Step Process Execution.pdf
+             │     └── Dynamic Modification Rule (DMR) Implementation Configuration Steps.pdf
              │
              ├── Flowchart/
-             │     ├── QM Integration with PP flowchart.png  
-             │     └── QM Integration with MM flowchart.png
+             │     └── DMR Flow Chart.png
              │
              └── Test Data/
-                   └── Sample test data.xlsx
+                   └── DMR Sample test data.xlsx
 
 
 
